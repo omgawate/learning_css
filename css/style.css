@@ -8,3 +8,10 @@ h5{
     background-color: darkorange;
     font-size: 80px;
 }
+h1{
+    color: deeppink;
+    background-color: cornsilk;
+    font-size: 80px;
+    text-align: center;
+    scroll-snap-align: inherit;
+}
