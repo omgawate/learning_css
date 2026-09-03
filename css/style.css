@@ -1,17 +1,97 @@
 h3{
-    color: white;
-    background-color: rgb(215, 35, 35);
+    color: yellow;
+    background-color: rgb(255, 0, 204);
     font-size: 80px;
+    text-align: center;
 }
 h5{
     color: aqua;
     background-color: darkorange;
     font-size: 80px;
+    text-align: center;
 }
-h1{
+/* h1{
     color: deeppink;
     background-color: cornsilk;
     font-size: 80px;
     text-align: center;
-    scroll-snap-align: inherit;
+    scroll-timeline: inherit;
+
+} */
+.heading6{
+    font-size: 50px;
+    color: blue;
+    background-color: black;
+}
+.parel{
+    font-size: 50px;
+    color: aqua;
+    background-color: azure;
+}
+#heading1{
+    font-size: 50px;
+    color: rgb(0, 255, 123);
+    background-color:black;
+
+}
+#heading2{
+    font-size: 50px;
+    color: rgb(234, 255, 0);
+    background-color:blueviolet;
+
+}
+#heading_bg_color{
+
+    background-color:blueviolet;
+
+}
+#heading_font_size{
+    font-size: 50px;
+  
+}
+#heading_color{
+ 
+    color: rgb(255, 0, 85);
+ 
+
+}
+#heading_1{
+    color: brown;
+    font-size: 50px;
+    background-color: blue;
+}
+.t_transform_uppercase{
+    text-transform: uppercase;
+}
+.t_transform_lowercase{
+    text-transform: lowercase;
+}
+.t_transform_capitalize{
+    text-transform: capitalize;
+}
+.t_decor_underling{
+    text-decoration: underline;
+}
+.t_decor_overline{
+    text-decoration: overline;
+}
+.t_decor_lineThrough{
+    text-decoration: line-through;
+}
+.t_decor_all{
+    text-decoration: overline underline line-through;
+}
+.t_align_l{
+    text-align: left;
+}
+.t_align_c{
+    text-align: center;
+}
+.t_align_r{
+    text-align: right;
+}
+.t_shadow{
+    font-size: 90px;
+    color: blue;
+    text-shadow: 8px 9px 4px red;
 }
