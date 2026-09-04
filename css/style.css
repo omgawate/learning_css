@@ -95,3 +95,76 @@ h5{
     color: blue;
     text-shadow: 8px 9px 4px red;
 }
+.t_indent{
+    text-indent: 100px;
+}
+.word_space{
+    word-spacing: 50px;
+}
+.word_letter{
+    letter-spacing: 10px;
+}
+.line_height{
+    line-height: 50px;
+}
+.f_family1{
+    font-family: cursive;
+}
+.f_family2{
+    font-family: fantasy;
+}
+.f_family3{
+    font-family: monospace;
+}
+.f_family4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.f_weight{
+    font-weight: 900;
+    font-size: 40px;
+    font-style: italic;
+    font-variant: small-caps;
+}
+.t_shadow{
+    text-shadow:2px 8px 7px red ;
+    color: blue;
+    font-size: 70px;
+    text-align: center;
+}
+.b_shadow{
+    width: 400px;
+    box-shadow: 6px 7px 8px red;
+}
+.b_shadow2{
+    width: 400px;
+    box-shadow: 6px 7px 8px red;
+}
+.d_shadow{
+    width: 500px;
+    box-shadow: 6px 7px 8px red;
+}
+.d_shadow2{
+    width: 400px;
+    box-shadow: 6px 7px 8px red;
+}
+.b_property1{
+    border: 25px inset red;
+
+}
+.b_property2{
+    border: 12px solid gold;
+
+}
+.b_property3{
+    border: 12px groove aqua;
+    border-top-color: blueviolet;
+    border-right-color: aquamarine;
+    border-bottom-color: blue;
+    border-left-color: gold;
+    border-radius: 50px 140px 20px 100px;
+
+}
+.b_property4{
+    border: 12px inset burlywood;
+
+}
