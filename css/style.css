@@ -168,3 +168,19 @@ h5{
     border: 12px inset burlywood;
 
 }
+.b_model{
+    border: 5px solid red;
+    padding: 40px;
+    margin: 80px;
+}
+.b_model2{
+    border: 6px solid rgb(0, 81, 255);
+    padding: 20px 50px 20px 50px;
+    margin: 40px 100px 40px 100px;
+}
+.b_image{
+
+    border: 3px solid aqua;
+    padding: 30px;
+    margin: 40px;
+}
