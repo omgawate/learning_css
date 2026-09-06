@@ -234,3 +234,41 @@ h5{
     height: 600px;
     background: conic-gradient(from 45deg,  red,blue,aqua,yellow,black);
 }
+.flex-items{
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+    height: 140px;
+    margin-top: 10px;
+    color: white;
+    font-size: 50px;
+    border: 3px solid red;
+    border-radius: 10px;
+
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+    justify-content: center;
+    list-style: none;
+    align-items: center;
+}
+
+.flex-image{
+    width: 100%;
+}
+.bg_image_example{
+    background-color: black;
+    background-image: url(../images1/nature.image.jpg );
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg_headings{
+    padding-top: 60px;
+    font-size: 60px;
+    color: aqua;
+    text-align: center;
+}
