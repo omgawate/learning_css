@@ -272,3 +272,84 @@ h5{
     color: aqua;
     text-align: center;
 }
+uk{
+    width: 200px;
+    padding: 15px;
+    list-style-type: none;
+    font-weight: 900;
+}
+li{
+    padding: 10px;
+    border: 10px solid red;
+    margin-bottom: 5px;
+    border-radius: 10px;
+
+}
+/* .list_item{
+    background-color:black;
+    color: white;
+}
+.list_item1{
+    background-color: aqua;
+    color: black;
+} */
+ /* li:-child(even){
+    background-color: cadetblue;
+ }
+ li:nth-child(odd){
+    background-color: black;
+    color: white;
+ } */
+ li:first-child{
+    background-color: aqua;
+ }
+ li:last-child{
+    background-color: blueviolet;
+ }
+ li:nth-child(3){
+    background-color: blue;
+ }
+ .b_container{
+    display: flex;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding:100px;
+ }
+ .s_box{
+    background-color: rgb(165, 42, 126);
+    color: white;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 5px solid blueviolet;
+    transition: transform 2s ease-in;
+    
+ }
+.b1:hover{
+    transform: translate(220px,125px);
+    background-color: cadetblue;
+}
+.b2:hover{
+    transform: translateX(220px);
+    background-color: coral;
+}
+.b3:hover{
+    transform: translateY(220px);
+    background-color: deeppink;
+}
+.b4:hover{
+    transform: rotate(360deg);
+    background-color: aqua;
+}
+.b5:hover{
+    transform: skewx(90deg);
+    background-color: dodgerblue;
+}
+.b6:hover{
+    transform: scale(1.2);
+    background-color: chartreuse;
+}
